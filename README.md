@@ -27,13 +27,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
