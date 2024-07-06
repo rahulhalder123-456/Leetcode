@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -24,10 +25,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
