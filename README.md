@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
