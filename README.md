@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulhalder123-456/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/rahulhalder123-456/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/rahulhalder123-456/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulhalder123-456/Leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/rahulhalder123-456/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
