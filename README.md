@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rahulhalder123-456/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/rahulhalder123-456/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/rahulhalder123-456/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rahulhalder123-456/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/rahulhalder123-456/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2721-sum-of-distances](https://github.com/rahulhalder123-456/Leetcode/tree/master/2721-sum-of-distances) |
 ## Two Pointers
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rahulhalder123-456/Leetcode/tree/master/0162-find-peak-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rahulhalder123-456/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
