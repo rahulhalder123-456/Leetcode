@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0392-is-subsequence](https://github.com/rahulhalder123-456/Leetcode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/rahulhalder123-456/Leetcode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulhalder123-456/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulhalder123-456/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/rahulhalder123-456/Leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
