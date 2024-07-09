@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/rahulhalder123-456/Leetcode/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulhalder123-456/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulhalder123-456/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/rahulhalder123-456/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rahulhalder123-456/Leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
