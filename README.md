@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/rahulhalder123-456/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulhalder123-456/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rahulhalder123-456/Leetcode/tree/master/0162-find-peak-element) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rahulhalder123-456/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rahulhalder123-456/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rahulhalder123-456/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rahulhalder123-456/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rahulhalder123-456/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
