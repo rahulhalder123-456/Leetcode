@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rahulhalder123-456/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/rahulhalder123-456/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/rahulhalder123-456/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2721-sum-of-distances](https://github.com/rahulhalder123-456/Leetcode/tree/master/2721-sum-of-distances) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -62,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rahulhalder123-456/Leetcode/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulhalder123-456/Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rahulhalder123-456/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
