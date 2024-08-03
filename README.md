@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/rahulhalder123-456/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/rahulhalder123-456/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rahulhalder123-456/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulhalder123-456/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rahulhalder123-456/Leetcode/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rahulhalder123-456/Leetcode/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulhalder123-456/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rahulhalder123-456/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rahulhalder123-456/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
