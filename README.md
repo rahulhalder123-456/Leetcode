@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rahulhalder123-456/Leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/rahulhalder123-456/Leetcode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/rahulhalder123-456/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Stack
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rahulhalder123-456/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rahulhalder123-456/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulhalder123-456/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/rahulhalder123-456/Leetcode/tree/master/0338-counting-bits) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rahulhalder123-456/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rahulhalder123-456/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rahulhalder123-456/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
